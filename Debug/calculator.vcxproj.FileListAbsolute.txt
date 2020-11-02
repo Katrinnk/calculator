@@ -1,0 +1,2 @@
+E:\vs\calculator\Debug\calculator.exe
+E:\vs\calculator\Debug\calculator.pdb
